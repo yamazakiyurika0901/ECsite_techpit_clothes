@@ -1,1 +1,1 @@
-web: vendor/bin/heroku-php-apache2 laradock/
+web: vendor/bin/heroku-php-apache2 techpit-clothes/
