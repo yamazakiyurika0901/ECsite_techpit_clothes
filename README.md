@@ -1,1 +1,1 @@
-# ecsite_techpit_clothes
+# ecsite-techpit-clothes
